@@ -1,4 +1,4 @@
-# British_Airways_Virtual_Internship
+# British Airways Virtual Internship
 Virtual internship program in Data Science by British Airways through Forage
 
 Task 1
